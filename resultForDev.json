@@ -1,0 +1,619 @@
+[
+    {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.9",
+        "name": "שנקר - מערכת מידע לסטודנט",
+        "url": "http://info.shenkar.ac.il/defaultMain.asp",
+        "isFamilyFriendly": true,
+        "displayUrl": "info.shenkar.ac.il/defaultMain.asp",
+        "snippet": "בוציעלו הסדנהל הובג ס\"'ב - רקנש תורומש תויוכזה לכ - 2001 © רקנש",
+        "dateLastCrawled": "2018-12-19T09:39:00.0000000Z",
+        "language": "he",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.18",
+        "name": "Shenkar Students Union » אופיס חינם!",
+        "url": "https://myaguda.co.il/office365/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://myaguda.co.il/office365",
+        "snippet": "אופיס 365, כי מגיע לכם. ניתן להוריד ולהתקין את הגרסאות הבאות: Microsoft Office 2016, Windows 7, Windows 8, Windows 8.1, Windows 10, Microsoft Office 2016 for Mac",
+        "dateLastCrawled": "2018-12-22T00:57:00.0000000Z",
+        "language": "he",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.13",
+        "name": "תחנת מידע לסטודנט ... - yedionh.shenkar.ac.il",
+        "url": "http://yedionh.shenkar.ac.il/yedion/fireflyweb.aspx",
+        "isFamilyFriendly": true,
+        "displayUrl": "yedionh.shenkar.ac.il/yedion/fireflyweb.aspx",
+        "snippet": "תחנת מידע ורישום לאינטרנט עבור מוסדות אקדמיים. יש להקליד את מספר תעודת הזהות כולל ספרת ביקורת ואת הסיסמה אותה קיבלת משנקר הנדסאים",
+        "dateLastCrawled": "2018-12-24T12:14:00.0000000Z",
+        "language": "he",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.14",
+        "name": "Shenkar College of Engineering and Design - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Shenkar_College_of_Engineering_and_Design",
+        "about": [
+            {
+                "name": "Shenkar College of Engineering and Design"
+            },
+            {
+                "name": "Shenkar College of Engineering and Design"
+            }
+        ],
+        "isFamilyFriendly": true,
+        "displayUrl": "https://en.wikipedia.org/.../Shenkar_College_of_Engineering_and_Design",
+        "snippet": "Shenkar College of Engineering, Design and Art (commonly abbreviated as Shenkar) is a public college in Ramat Gan, Israel.Shenkar serves the Israeli industry by providing academic qualification and R&D services for modern industries.",
+        "snippetAttribution": {
+            "license": {
+                "name": "CC-BY-SA",
+                "url": "http://creativecommons.org/licenses/by-sa/3.0/"
+            },
+            "licenseNotice": "טקסט תחת רשיון CC-BY-SA"
+        },
+        "dateLastCrawled": "2018-12-22T02:10:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.37",
+        "name": "חבילת ההטבות שנקר - התאחדות הסטודנטים והסטודנטיות הארצית",
+        "url": "https://www.nuis.co.il/hatavot-shenkar/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.nuis.co.il/hatavot-shenkar",
+        "snippet": "הפתרון המלא לתחזוקת הרכב, מזיהוי תקלות ועד הצעת מחיר לתיקון, ב-20 ש\"ח הנחה. עם קוד קופון: shenkar",
+        "dateLastCrawled": "2018-12-14T10:03:00.0000000Z",
+        "language": "he",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.23",
+        "name": "Shenkar - IMDb",
+        "url": "https://www.imdb.com/name/nm0788150/",
+        "about": [
+            {
+                "name": "L. Shankar"
+            }
+        ],
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.imdb.com/name/nm0788150",
+        "snippet": "Shenkar is a musician's musician who has enthralled audiences and critics alike all over the world. He is a virtuoso vocalist/violinist (with a five and a half octave vocal range), composer and record producer who has sold over 35 million on his recordings and his guest appearances ...",
+        "dateLastCrawled": "2018-12-16T20:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.21",
+        "name": "תחנת מידע למרצה - שנקר הנדסאים - שנקר הנדסאים",
+        "url": "http://yedionh.shenkar.ac.il/yedion/fireflyweb.aspx?prgname=Login_Teacher",
+        "isFamilyFriendly": true,
+        "displayUrl": "yedionh.shenkar.ac.il/yedion/fireflyweb.aspx?prgname=Login_Teacher",
+        "snippet": "תחנת מידע ורישום לאינטרנט עבור מוסדות אקדמיים. תמיכה בתפעול אתר המרצים ניתן לקבל בשעות היום בטלפון 1-599-50-90-70",
+        "dateLastCrawled": "2018-12-19T12:43:00.0000000Z",
+        "language": "he",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.31",
+        "name": "חנות מחשבים בהרצליה - שנקר",
+        "url": "https://www.ivory.co.il/ivory_store_herzliya_Shenkar.html",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.ivory.co.il/ivory_store_herzliya_Shenkar.html",
+        "snippet": "חנות מחשבים בהרצליה פיתוח ברחוב שנקר 2. מבחר מחשבים ניידים ונייחים, סמארטפונים, טאבלטים, קונסולות ועוד במחירים זולים בחנויות מחשבים אייבורי מחשבים וסלולר",
+        "dateLastCrawled": "2018-12-24T12:07:00.0000000Z",
+        "language": "he",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.26",
+        "name": "shenkar-lax",
+        "url": "https://www.sl-adv.co.il/",
+        "about": [
+            {}
+        ],
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.sl-adv.co.il",
+        "snippet": "shenkar-lax",
+        "dateLastCrawled": "2018-12-16T11:59:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.8",
+        "name": "רשימת הקורסים המלאה | שנקר לימודי חוץ",
+        "url": "https://ext.shenkar.ac.il/new/?page_id=90",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://ext.shenkar.ac.il/new/?page_id=90",
+        "snippet": "רשימת כל הקורסים, המסלולים ותוכניות הלימודים של המחלקה ללימודי חוץ והמשך בשנקר. היכנסו לדף כדי להכיר את הנושאים, לראות את המגוון ולברר פרטים על הרשמה ומועדים.",
+        "dateLastCrawled": "2018-12-22T06:57:00.0000000Z",
+        "language": "he",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.2",
+        "name": "מערכת שביט-Moodle להוראה מתוקשבת - שנקר",
+        "url": "http://online.shenkar.ac.il/",
+        "isFamilyFriendly": true,
+        "displayUrl": "online.shenkar.ac.il",
+        "snippet": "לבירורים ניתן לפנות למדור שכר לימוד בדוא\"ל: shulidr@shenkar.ac.il תמיכה תמיכה באתר ה-Moodle נא ליצור קשר בדוא\"ל הבא: shavit@shenkar.ac.il (יש לציין שם מלא ,שם מחלקה ו/או קורס ומספר ת.ז).",
+        "dateLastCrawled": "2018-12-24T01:47:00.0000000Z",
+        "language": "he",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.27",
+        "name": "ארטיפוטו - aux.shenkar.ac.il",
+        "url": "http://aux.shenkar.ac.il/2011/group23/index.php?page=digital",
+        "isFamilyFriendly": true,
+        "displayUrl": "aux.shenkar.ac.il/2011/group23/index.php?page=digital",
+        "snippet": "עידן הצילום הדיגיטלי השינוי הגדול בתחום הצילום, ללא ספק, היה המעבר ממצלמות אנלוגיות שהשתמשו בסרטי צילום, למצלמות דיגיטליות.",
+        "dateLastCrawled": "2018-12-17T09:41:00.0000000Z",
+        "language": "he",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.16",
+        "name": "\u202bShenkar | שנקר - Home | Facebook\u202c",
+        "url": "https://www.facebook.com/Shenkar.College/",
+        "about": [
+            {
+                "name": "Shenkar College of Engineering and Design"
+            }
+        ],
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.facebook.com/Shenkar.College",
+        "snippet": "\u200eShenkar | שנקר\u200e, Ramat Gan, Israel. 39,022 likes · 455 talking about this · 9,427 were here. \u200e\"שנקר - הנדסה, עיצוב, אמנות\" הוא ...",
+        "dateLastCrawled": "2018-12-14T10:16:00.0000000Z",
+        "language": "he",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.34",
+        "name": "Shenkar - Engineering. Design. Art. | LinkedIn",
+        "url": "https://www.linkedin.com/school/shenkar-college-of-engineering-and-design/",
+        "about": [
+            {
+                "name": "Shenkar College of Engineering and Design"
+            }
+        ],
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.linkedin.com/school/shenkar-college-of-engineering-and...",
+        "snippet": "About us “Shenkar - Engineering. Design. Art” has established itself as one of the leading colleges in Israel. Every year, Shenkar's graduates find themselves in the forefront of research and ...",
+        "dateLastCrawled": "2018-12-23T14:56:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.3",
+        "name": "מכללה טכנולוגית שנקר הנדסאים - הנדסה. עיצוב. אמנות.",
+        "url": "https://handesaim.shenkar.ac.il/",
+        "about": [
+            {
+                "name": "Shenkar Handesaim"
+            }
+        ],
+        "isFamilyFriendly": true,
+        "displayUrl": "https://handesaim.shenkar.ac.il",
+        "snippet": "המכללה הטכנולוגית 'שנקר הנדסאים' הינה חלק בלתי נפרד מ'שנקר-בי\"ס גבוה להנדסה ועיצוב'. המכללה מציעה לימודי הנדסאים ולימודי תעודה במגוון תחומים. כל המידע באתר",
+        "dateLastCrawled": "2018-12-24T03:55:00.0000000Z",
+        "language": "he",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.42",
+        "name": "שנקר | ביה\"ס להנדסאים שנקר | שנקר הנדסאים | ilimudim",
+        "url": "http://www.ilimudim.co.il/i/shenkar-school",
+        "isFamilyFriendly": true,
+        "displayUrl": "www.ilimudim.co.il/i/shenkar-school",
+        "snippet": "בית ספר להנדסאים שנקר פועל בחסות ובפיקוח שנקר - בי\"ס גבוה להנדסה ועיצוב , משרד התעשייה והמסחר ומה\"ט – המכון להכשרה טכנולוגית.",
+        "dateLastCrawled": "2018-12-22T10:39:00.0000000Z",
+        "language": "he",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.43",
+        "name": "UI/UX Design Gal Shenkar",
+        "url": "http://shenkar.com/",
+        "about": [
+            {}
+        ],
+        "isFamilyFriendly": true,
+        "displayUrl": "shenkar.com",
+        "snippet": "Specializations I design with the end user in mind, focusing on the user's experience and interaction with the product. I use UI/UX design to implement the visual language and to maximize the user’s experience by understanding of user needs.",
+        "dateLastCrawled": "2018-12-21T14:41:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.40",
+        "name": "Michael Shenkar | Hebrew University of Jerusalem ...",
+        "url": "http://huji.academia.edu/MichaelShenkar",
+        "isFamilyFriendly": true,
+        "displayUrl": "huji.academia.edu/MichaelShenkar",
+        "snippet": "Michael Shenkar, Hebrew University of Jerusalem, Islamic and Middle Eastern Studies Department, Faculty Member. Studies Iranian Languages, Kushan history, and Hellenistic Bactria. Michael Shenkar is a Senior Lecturer in Pre-Islamic Iranian Studies at",
+        "dateLastCrawled": "2018-12-15T07:06:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.44",
+        "name": "NADINE SHENKAR / KABBALA - Part1 - YouTube",
+        "url": "https://www.youtube.com/watch?v=_RfkhrjRXxI",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.youtube.com/watch?v=_RfkhrjRXxI",
+        "snippet": "הישראלי היחיד באי הנידח בעולם: \"אין בנקים, אין מסעדות ואנשים כאן מאושרים\" - Duration: 8:07. כאן חדשות - תאגיד השידור ...",
+        "dateLastCrawled": "2018-12-23T09:53:00.0000000Z",
+        "language": "he",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.19",
+        "name": "shenkar-lax",
+        "url": "https://www.sl-adv.co.il/#!",
+        "about": [
+            {}
+        ],
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.sl-adv.co.il/#!",
+        "snippet": "Shenkar-Lax & Co. is a boutique law firm specializing in corporate and international business law. We are closely involved in providing our clients the high-quality service they have come to expect of us - our own blend of professionalism and personal dedication.",
+        "dateLastCrawled": "2018-12-16T15:05:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.12",
+        "name": "meydanet.shenkar.ac.il",
+        "url": "https://meydanet.shenkar.ac.il/michlol3/studentportalwap/View_Scanned_Exam.Aspx",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://meydanet.shenkar.ac.il/michlol3/studentportalwap/View...",
+        "snippet": "זמן השימוש במערכת תם, נא להתחבר שוב. זמן השימוש במערכת תם, נא להתחבר שוב.",
+        "dateLastCrawled": "2018-12-22T01:53:00.0000000Z",
+        "language": "he",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.5",
+        "name": "meydanet.shenkar.ac.il",
+        "url": "https://meydanet.shenkar.ac.il/michlol3/studentportalwap/Pt_login.aspx",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://meydanet.shenkar.ac.il/michlol3/studentportalwap/Pt_login.aspx",
+        "snippet": "שנקר מעמידה לרשותך מערכת מידע מקוונת בה תוכל/י לקבל את כל המידע הדרוש בתחומים הבאים:",
+        "dateLastCrawled": "2018-12-23T20:55:00.0000000Z",
+        "language": "he",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.24",
+        "name": "\u202bShenkar | שנקר - פוסטים | פייסבוק\u202c",
+        "url": "https://he-il.facebook.com/Shenkar.College/posts/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://he-il.facebook.com/Shenkar.College/posts",
+        "snippet": "\u200fShenkar | שנקר\u200f, \u200fרמת גן\u200f. \u200f\u200f39,009\u200f לייקים · \u200f469\u200f מדברים על כך · \u200f9,396\u200f היו כאן\u200f. \u200f\"שנקר - הנדסה, עיצוב, אמנות\" הוא מוסד אקדמי מוביל בישראל, המכשיר...",
+        "dateLastCrawled": "2018-12-10T22:35:00.0000000Z",
+        "language": "he",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.15",
+        "name": "Prof. Noa Shenkar | The George S. Wise Faculty of Life ...",
+        "url": "https://en-lifesci.tau.ac.il/profile/shenkarn",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://en-lifesci.tau.ac.il/profile/shenkarn",
+        "snippet": "Raijman-Nagar L, Shenkar N (2015) Temperature and salinity sensitivity of the invasive ascidian Microcosmus exasperatus. Aquat Inv In Press . Raijman-Nagar L, Shenkar N (2015) From tropical to sub-tropical: Prolonged reproductive activity of the invasive ascidian Microcosmus exasperatus in the eastern Mediterranean.",
+        "dateLastCrawled": "2018-12-21T15:08:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.6",
+        "name": "מידע לסטודנטים - handesaim.shenkar.ac.il",
+        "url": "https://handesaim.shenkar.ac.il/%d7%9e%d7%99%d7%93%d7%a2-%d7%9c%d7%a1%d7%98%d7%95%d7%93%d7%a0%d7%98%d7%99%d7%9d/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://handesaim.shenkar.ac.il/מידע-לסטודנטים",
+        "snippet": "היכנסו לקבלת גישה למערכת המידע לסטודנט, ציונים וידיעון ולקבלת מידע על לוח שנת הלימודים, אירועים וחופשות במכללת שנקר הנדסאים.",
+        "dateLastCrawled": "2018-12-24T15:01:00.0000000Z",
+        "language": "he",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.20",
+        "name": "Shenkar (@shenkar_college) • Instagram photos and videos",
+        "url": "https://www.instagram.com/shenkar_college/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.instagram.com/shenkar_college",
+        "snippet": "13k Followers, 987 Following, 1,220 Posts - See Instagram photos and videos from Shenkar (@shenkar_college)",
+        "dateLastCrawled": "2018-11-28T13:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.35",
+        "name": "Shenkar - Biography - IMDb",
+        "url": "https://www.imdb.com/name/nm0788150/bio",
+        "about": [
+            {
+                "name": "L. Shankar"
+            }
+        ],
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.imdb.com/name/nm0788150/bio",
+        "snippet": "Shenkar is the featured vocalist on the theme song and is the vocalist on all \"Heroes\" episodes. Shenkar's vocals are also featured on two songs on the new Toto album, \"Falling in Between\". Patrick Leonard and Shenkar have a duet album due to be released in the fall of 2007 titled \"Udistam\".",
+        "dateLastCrawled": "2018-09-21T18:19:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.41",
+        "name": "shenkar | המלבישה",
+        "url": "http://www.shelly-gross.com/tag/shenkar/",
+        "isFamilyFriendly": true,
+        "displayUrl": "www.shelly-gross.com/tag/shenkar",
+        "snippet": "פוסט מאת שלי גרוס המלבישה פורסם בתאריך 23 ביוני 2016 בקטגוריה כללי, מה לעשות וסומן בתגיות 2016, fashion design school, shenkar, students, שנקר.",
+        "dateLastCrawled": "2018-12-14T00:01:00.0000000Z",
+        "language": "he",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.7",
+        "name": "שנקר - מערכת מידע לסטודנט",
+        "url": "http://info.shenkar.ac.il/",
+        "isFamilyFriendly": true,
+        "displayUrl": "info.shenkar.ac.il",
+        "snippet": "Shenkar School of Engineering and Design - Student information system",
+        "dateLastCrawled": "2018-12-23T04:13:00.0000000Z",
+        "language": "he",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.1",
+        "name": "שנקר - הנדסה. עיצוב. אמנות. - shenkar.ac.il",
+        "url": "https://www.shenkar.ac.il/he",
+        "about": [
+            {
+                "name": "Shenkar College of Engineering and Design"
+            }
+        ],
+        "isFamilyFriendly": true,
+        "displayUrl": "https://shenkar.ac.il",
+        "snippet": "בית ספר גבוה המקיים לימודי תעודה להנדסה ועיצוב. הפקולטה לעיצוב הציבה לה כמטרה לקדם את העיצוב ותרומתו לחברה, לכלכלה ולתעשייה.",
+        "dateLastCrawled": "2018-12-24T07:46:00.0000000Z",
+        "language": "he",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.45",
+        "name": "נובמבר, 2014 | מיכל שנקר - קורס NLP",
+        "url": "http://michalshenkar.co.il/2014/11",
+        "isFamilyFriendly": true,
+        "displayUrl": "michalshenkar.co.il/2014/11",
+        "snippet": "אבן חזקה במיוחד, בעלת תכונות מרגיעות. טובה במיוחד להרגעת העצבים. מנקה את כל מערכות הגוף ומאפשרת לאנרגיות לזרום בצורה חלקה והרמונית.",
+        "dateLastCrawled": "2018-12-26T23:46:00.0000000Z",
+        "language": "he",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.36",
+        "name": "L. Shankar - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/L._Shankar",
+        "about": [
+            {
+                "name": "L. Shankar"
+            },
+            {
+                "name": "L. Shankar"
+            }
+        ],
+        "isFamilyFriendly": true,
+        "displayUrl": "https://en.wikipedia.org/wiki/L._Shankar",
+        "snippet": "Lakshminarayana Shankar (born 26 April 1950), also known as L. Shankar and Shenkar, is an Indian-born American violinist, singer, and composer. In the 1970s he formed the band Shakti with British guitarist John McLaughlin.",
+        "snippetAttribution": {
+            "license": {
+                "name": "CC-BY-SA",
+                "url": "http://creativecommons.org/licenses/by-sa/3.0/"
+            },
+            "licenseNotice": "טקסט תחת רשיון CC-BY-SA"
+        },
+        "dateLastCrawled": "2018-12-23T23:21:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.25",
+        "name": "Publications | Michael Shenkar - Home | OpenScholar",
+        "url": "https://scholars.huji.ac.il/michaelshenkar/publications",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://scholars.huji.ac.il/michaelshenkar/publications",
+        "snippet": "Recent Publications “The Religion and the Pantheon of the Sogdians (5th–8th centuries CE) in Light of their Sociopolitical Structures” “The Headdress of the Tillya Tepe “Prince””",
+        "dateLastCrawled": "2018-12-16T14:40:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.0",
+        "name": "Shenkar - Engineering. Design. Art.",
+        "url": "https://www.shenkar.ac.il/en",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.shenkar.ac.il/en",
+        "snippet": "Shenkar College of Engineering, Design and Art (commonly abbreviated as Shenkar) is a college in Ramat Gan, Israel. Shenkar serves the Israeli industry by providing academic qualification and R&D services for modern industries.",
+        "dateLastCrawled": "2018-12-21T19:12:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.38",
+        "name": "הום סטיילינג - handesaim-courses.shenkar.ac.il",
+        "url": "http://handesaim-courses.shenkar.ac.il/course/home-styling/",
+        "isFamilyFriendly": true,
+        "displayUrl": "handesaim-courses.shenkar.ac.il/course/home-styling",
+        "snippet": "המחלקה ללימודי חוץ פועלת לצד הלימודים האקדמיים בשנקר, ומציעה אפשרות לרכישת ידע ולהתנסות מקצועית בתחומים: עיצוב, אמנות והנדסה.",
+        "dateLastCrawled": "2018-11-10T21:31:00.0000000Z",
+        "language": "he",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.32",
+        "name": "המטריה הגדולה של אבא - aux.shenkar.ac.il",
+        "url": "http://aux.shenkar.ac.il/2011/group34/aba.html",
+        "isFamilyFriendly": true,
+        "displayUrl": "aux.shenkar.ac.il/2011/group34/aba.html",
+        "snippet": "על הספר \"המטריה הגדולה של אבא\" הוא ספרו של לוין קיפניס. טל, שקוראים לו טלטל, קם בבוקר ורצה ללכת אל הגנון.",
+        "dateLastCrawled": "2018-12-21T21:24:00.0000000Z",
+        "language": "he",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.33",
+        "name": "pr-srv1.shenkar.ac.il - Priority 17 HTML5",
+        "url": "https://pr-srv1.shenkar.ac.il/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://pr-srv1.shenkar.ac.il",
+        "snippet": "pr-srv1.shenkar.ac.il - Priority 17 HTML5",
+        "dateLastCrawled": "2018-12-04T11:22:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.11",
+        "name": "Shenkar Students Union",
+        "url": "https://myaguda.co.il/",
+        "about": [
+            {
+                "name": "אגודת הסטודנטים.ות שנקר"
+            }
+        ],
+        "isFamilyFriendly": true,
+        "displayUrl": "https://myaguda.co.il",
+        "snippet": "לאגודת הסטודנטיות והסטודנטים שנקר. כאן תוכלו לקרוא ולדעת קצת על מי אנחנו ומה המטרות שלנו עבורכם.",
+        "dateLastCrawled": "2018-12-20T01:21:00.0000000Z",
+        "language": "he",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.29",
+        "name": "shenkar.co.il - עיצוב גרפי בניית אתרים ...",
+        "url": "http://shenkar.co.il/",
+        "isFamilyFriendly": true,
+        "displayUrl": "shenkar.co.il",
+        "snippet": "עיצוב גרפי הוא תהליך של תקשורת חזותית המקנה פתרון ויזואלי באמצעות אחד או יותר של אלמנטים כמו טיפוגרפיה, צילום ואיור.",
+        "dateLastCrawled": "2018-12-11T20:16:00.0000000Z",
+        "language": "he",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.17",
+        "name": "rosearchive.shenkar.ac.il - ראשי | ארכיון רוז ...",
+        "url": "https://rosearchive.shenkar.ac.il/",
+        "about": [
+            {
+                "name": "Rose Archive Shenkar"
+            }
+        ],
+        "isFamilyFriendly": true,
+        "displayUrl": "https://rosearchive.shenkar.ac.il",
+        "snippet": "הארכיון לאופנה וטקסטיל עש' רוז צמח מאוסף קטן שנתרם בשנת 1986 על ידי המכון הטכנולוגי לאופנה בניו יורק (fit). במשך השנים גדל הארכיון והתרחב הודות לתרומות מישראל כמו גם מרחבי העולם. פריטי לבוש מתקופות שונות, טקסטילים ...",
+        "dateLastCrawled": "2018-12-18T01:51:00.0000000Z",
+        "language": "he",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.28",
+        "name": "Ben Shenkar\u200e\u200f פרופילים | פייסבוק",
+        "url": "https://he-il.facebook.com/public/Ben-Shenkar",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://he-il.facebook.com/public/Ben-Shenkar",
+        "snippet": "הצג/הציגי את הפרופילים של אנשים בשם \u200f\u200eBen Shenkar\u200e\u200f. הצטרף/הצטרפי לפייסבוק כדי להתחבר אל \u200f\u200eBen Shenkar\u200e\u200f ואל אנשים אחרים שאולי את/ה מכיר/ה. פייסבוק נותן...",
+        "dateLastCrawled": "2018-12-14T06:32:00.0000000Z",
+        "language": "he",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.39",
+        "name": "שנקר - בית ספר",
+        "url": "http://www.shenkargraduates.com/",
+        "isFamilyFriendly": true,
+        "displayUrl": "www.shenkargraduates.com",
+        "snippet": "שנקר - הנדסה. עיצוב. אמנות. אנה פרנק 12 רמת גן 03-6110000 shenkar.ac.il עיצוב גרפי: קובי פרנקו וזהר קורן",
+        "dateLastCrawled": "2018-12-20T06:45:00.0000000Z",
+        "language": "he",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.46",
+        "name": "הארכיון לאופנה ולטקסטיל - בית הספר לאופנה \"שנקר\"",
+        "url": "https://culture.pais.co.il/VisualArt/Pages/shenkar_Archive_for_fashion_-and_textile.aspx",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://culture.pais.co.il/VisualArt/Pages/shenkar_Archive_for...",
+        "snippet": "הארכיון לאופנה וטקסטיל ע\"ש בנט ופאולין רוז שהוקם בתמיכת מפעל הפיס, צמח מאוסף קטן שנתרם ב- 1986 ע\"י המכון הטכנולוגי לאופנה בניו יורק (fit).",
+        "dateLastCrawled": "2018-12-19T10:52:00.0000000Z",
+        "language": "he",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.4",
+        "name": "שנקר לימודי חוץ | קורסי עיצוב, אופנה וטכנולוגיה",
+        "url": "https://ext.shenkar.ac.il/new/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://ext.shenkar.ac.il",
+        "snippet": "שנקר לימודי חוץ ולימודי המשך, המובילה בקורסים מקצועיים והכשרות בתחומי העיצוב, האופנה, ההנדסה והטכנולוגיה.",
+        "dateLastCrawled": "2018-12-24T01:11:00.0000000Z",
+        "language": "he",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.30",
+        "name": "DB Schenker | Global Logistics Solutions & Supply Chain ...",
+        "url": "https://www.dbschenker.com/global",
+        "about": [
+            {
+                "name": "DB Schenker"
+            },
+            {
+                "name": "DB Schenker"
+            }
+        ],
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.dbschenker.com",
+        "snippet": "DB Schenker is a leader in supply chain management and logistics solutions, handling everything from logistics to customized shipping solutions.",
+        "dateLastCrawled": "2018-12-21T13:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.22",
+        "name": "בוק לבת מצווה | בוק לבר מצווה - נורית שנקר סטודיו לצילום",
+        "url": "http://shenkar-nurit.co.il/",
+        "about": [
+            {
+                "name": "נורית שנקר"
+            }
+        ],
+        "isFamilyFriendly": true,
+        "displayUrl": "shenkar-nurit.co.il",
+        "snippet": "נורית שנקר מתעדת כל אירוע חשוב בחייכם. נורית שנקר מציעה שירותי צילום לאירועים שונים ותקופות בחיים. בסטודיו לצילום של נורית שנקר אפשר לעשות צילומי ילדים ומשפחה, בוק לבת מצווה, בוק לבר מצווה, צילומי ניו בורן ועוד",
+        "dateLastCrawled": "2018-12-21T07:41:00.0000000Z",
+        "language": "he",
+        "isNavigational": false
+    },
+    {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.10",
+        "name": "Shenkar - Heroes Wiki",
+        "url": "http://heroeswiki.com/Shenkar",
+        "about": [
+            {
+                "name": "L. Shankar"
+            },
+            {
+                "name": "L. Shankar"
+            }
+        ],
+        "isFamilyFriendly": true,
+        "displayUrl": "heroeswiki.com/Shenkar",
+        "snippet": "Shenkar, born Lakshminarayanan Shankar and formerly known as Shankar, is widely considered a living legend in the world of music. Shenkar is a musician's musician who has enthralled audiences and critics alike all over the world.",
+        "dateLastCrawled": "2018-12-22T00:36:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+    }
+]

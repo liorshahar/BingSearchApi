@@ -1,8 +1,10 @@
+/* This route is not for use.... */
+
 const express = require('express');
 const router  = express.Router();
 const axios   = require('axios');
 var _ = require('underscore');
-const SUBSCRIPTION_KEY = 'ed8cb9f6cda94f1eaf0b6be7e54bd9cf';
+const SUBSCRIPTION_KEY = '6646472233094e85811b53459f2ffdad';
 if (!SUBSCRIPTION_KEY) {
   throw new Error('AZURE_SUBSCRIPTION_KEY is not set.')
 }
@@ -12,39 +14,36 @@ if (!SUBSCRIPTION_KEY) {
 async function bingSearchApi(query){
   console.log(query);
   var resultsArr = [];
-  for(var i = 0; i < 10 ; i++){
+  for(let i = 0; i < 10 ; i++){
     let t = await bingSearchQuery(query, i)
-    resultsArr.push(_.shuffle(t))
+      .then(resArray=>{
+        resArray.forEach(element => {
+          resultsArr.push(element)
+        });
+      })
+      .catch(err=>{console.log(err)})
   }
+  //console.log(resultsArr)
   return _.shuffle(resultsArr);
 }
 
-function bingSearchQuery(query, offset){
+async function bingSearchQuery(query, offset){
   var query = {
     url:    'https://api.cognitive.microsoft.com/bing/v7.0/search?q=',
     query:   encodeURIComponent(query) + '&count=10&offset=' + (offset * 10),
     headers:{'Ocp-Apim-Subscription-Key': SUBSCRIPTION_KEY }
   }
-  return axios.get(query.url + query.query, {headers: query.headers})
-  .then(response=>{
-    var results = response.data.webPages.value;
-    return results;
-  })
-  .catch(err=>{console.log(err)
-  })
-     
+  let response = await axios.get(query.url + query.query, {headers: query.headers});
+  console.log(response.data.webPages.value.length)
+  return response.data.webPages.value;
 }
 
 
 /* GET  shmoogle query */
-router.get('/:query', function(req, res, next) {
+router.get('/:query', async function(req, res) {
   console.log(req.params.query);
-  bingSearchApi(req.params.query)
-  .then((results)=>{
-    res.send(results);
-  })
-  .catch(err=>{console.log(err)
-  })
+  var results = await bingSearchApi(req.params.query)
+  res.send(results);
 });
 
 
