@@ -30,9 +30,11 @@ async function bingSearchQuery(query, offset){
     Promise.all([query1,query2])
     .then(responseArray=>{
       responseArray.forEach((element)=>{
-        queryResultArray.push(element.data.webPages.value);
+          element.data.webPages.value.forEach(item=>{
+            queryResultArray.push(item)
+          })
       })
-      let returnShuffleArray = _.shuffle(queryResultArray[0]);
+      let returnShuffleArray = _.shuffle(queryResultArray);
       resulve(returnShuffleArray)
     })
   })
