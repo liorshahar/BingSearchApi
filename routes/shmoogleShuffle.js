@@ -20,6 +20,7 @@ async function bingSearchQuery(query, offset) {
     query: encodeURIComponent(query) + "&count=50&offset=",
     headers: { "Ocp-Apim-Subscription-Key": SUBSCRIPTION_KEY }
   };
+  console.log(query);
 
   return new Promise((resulve, reject) => {
     let query1 = axios.get(query.url + query.query + 0, {
@@ -35,7 +36,7 @@ async function bingSearchQuery(query, offset) {
         element.data.webPages.value.forEach(item => {
           item.originalResultIndex = resultIndexCounter++;
           queryResultArray.push(item);
-          console.log(item);
+          //console.log(item);
         });
       });
       let returnShuffleArray = _.shuffle(queryResultArray);
