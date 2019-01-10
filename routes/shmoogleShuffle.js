@@ -2,14 +2,14 @@
   GET request - http://HOSTNAME/shmoogleShuffle/:query
   return first 100 results shuffle
 */
-
+require("dotenv").load();
 const express = require("express");
 const router = express.Router();
 const axios = require("axios");
-var _ = require("underscore");
-
+const _ = require("underscore");
+const SUBSCRIPTION_KEY = process.env.SUBSCRIPTION_KEY;
 // TODO - Hide key in env variable on the server
-const SUBSCRIPTION_KEY = "6646472233094e85811b53459f2ffdad";
+
 if (!SUBSCRIPTION_KEY) {
   throw new Error("AZURE_SUBSCRIPTION_KEY is not set.");
 }
