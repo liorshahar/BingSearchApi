@@ -4,8 +4,8 @@ const express = require("express");
 const router = express.Router();
 const axios = require("axios");
 var _ = require("underscore");
-
-if (!process.env.SUBSCRIPTION_KEY) {
+const SUBSCRIPTION_KEY = process.env.SUBSCRIPTION_KEY;
+if (!SUBSCRIPTION_KEY) {
   throw new Error("AZURE_SUBSCRIPTION_KEY is not set.");
 }
 
