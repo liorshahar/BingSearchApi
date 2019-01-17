@@ -8,11 +8,15 @@ const shmoogleShuffleRouter = require("./routes/shmoogleShuffle");
 const devRouter = require("./routes/devRoute");
 const app = express();
 
+// 1 minute // 60 requests
+// return exception
+// upload to azure
+
 const rateLimit = require("express-rate-limit");
 
 const limiter = rateLimit({
-  windowMs: 15 * 60 * 1000, // 15 minutes
-  max: 100 // limit each IP to 100 requests per windowMs
+  windowMs: 1 * 60 * 1000, // 15 minutes
+  max: 60 // limit each IP to 100 requests per windowMs
 });
 
 //  apply to all requests
